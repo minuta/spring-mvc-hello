@@ -18,6 +18,7 @@ string. The URL might then be http://localhost:8080/greeting?name=User.
 * Maven Wrapper
 * Spring Initializer : https://start.spring.io/
 * Tomcat
+* SLF4J
 
 ### Usage
 ```sh
